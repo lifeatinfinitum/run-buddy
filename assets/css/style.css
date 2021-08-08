@@ -42,7 +42,19 @@ header nav ul li a {
   font-weight: lighter;
   font-size: 22px;
 }
+/*add the start building habits section */
+.hero-cta {
+  font-weight: bold;
+  font-size: 36px;
+  color: #fce138;
+  margin: 0;
+  display: inline;
+}
 
+.main p{
+  display: inline;
+  margin-block-start: ;
+}
 footer {
   background: #fce138;
   width: 100%;
