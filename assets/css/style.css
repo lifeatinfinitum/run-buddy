@@ -41,8 +41,12 @@ header nav ul li {
 }
 
 header nav ul li a {
-  margin: 0 30px;
-  font-weight: lighter;
+ display: flex;
+flex-wrap: wrap; 
+justify-content: space-between;
+ align-items: center;
+ list-style: none;
+font-weight: lighter;
   font-size: 22px;
 }
 
