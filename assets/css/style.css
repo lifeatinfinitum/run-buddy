@@ -42,19 +42,7 @@ header nav ul li a {
   font-weight: lighter;
   font-size: 22px;
 }
-/*add the start building habits section */
-.hero-cta {
-  font-weight: bold;
-  font-size: 36px;
-  color: #fce138;
-  margin: 0;
-  display: inline;
-}
 
-.main p{
-  display: inline;
-  margin-block-start: ;
-}
 footer {
   background: #fce138;
   width: 100%;
@@ -132,17 +120,10 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
-.page-title {
-  color: #fce138; 
-  display: inline-block;
-  border-bottom: 4px solid; padding: 0 80px 15px 80px;
-  font-weight: normal;
-  font-size: 42px;
-  font-style: italic;
+
 .intro {
   text-align: center;
 }
-
 
 .intro p {
   line-height: 1.7;
@@ -189,6 +170,7 @@ section {
   display: inline-block;
   border-bottom: 3px solid;
 }
+
 
 .primary-border {
   border-color: #fce138;
@@ -274,16 +256,15 @@ section {
   font-size: 32px;
 }
 
-.contact-info p,
-.contact-info address {
+.contact-info p, .contact-info address {
   margin: 20px 0;
   line-height: 1.5;
-  font-size: 20px;
+  font-size:20px;
   font-style: normal;
 }
 
 .contact-info a {
-  color: #fce138;
+  color: #fce138
 }
 
 /* REACH OUT STYLES END */
