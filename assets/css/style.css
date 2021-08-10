@@ -354,6 +354,7 @@ section {
 
 .contact-form input, .contact-form textarea {
    /* add a transparent background here */
+  background-color: rgba(252, 225, 56, 08);
   border: 1px solid #024e76;
   display: block;
   padding: 7px 15px;
